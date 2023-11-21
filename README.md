@@ -6,12 +6,14 @@ To Write a html webpage page to display your timetable.
 
 ## ALGORITHM:
 ### STEP 1
-Create a simple table using table tag
+Create a Django Admin user Interface.
 ### STEP 2
-Add header row using the tag
+Create a simple table using table tag
 ### STEP 3
-Add your timetable
+Add header row using the tag
 ### STEP 4
+Add your timetable
+### STEP 5
 Execute the program
 
 ## CODE:
@@ -114,7 +116,7 @@ Execute the program
 </html>
 ```
 ## OUPUT:
-![Exp-5 timetable op](https://github.com/Loknaath-sec/ODD2023-WT-Ex-03-Timetable/assets/145742558/10313874-a70d-4970-938d-2a8f7c0bcec6)
+![Exp-5 timetable op](https://github.com/Loknaath-sec/ODD2023-WT-Ex-03-Timetable/assets/145742558/d1b25d7a-d81f-47f9-9939-87c929b9c4e5)
 
 ## Result:
 Thus the program to write a html webpage page to display your timetable is successfully executed.
